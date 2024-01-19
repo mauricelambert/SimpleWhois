@@ -1,3 +1,5 @@
+![SimpleWhois logo](https://mauricelambert.github.io/info/python/security/SimpleWhois_small.png "SimpleWhois logo")
+
 # SimpleWhois
 
 ## Description
@@ -50,7 +52,7 @@ whois("2001:1c00::78")
 ## Links
 
  - [Pypi](https://pypi.org/project/SimpleWhois)
- - [Github](https://github.com/user/SimpleWhois)
+ - [Github](https://github.com/mauricelambert/SimpleWhois)
  - [Documentation](https://mauricelambert.github.io/info/python/code/SimpleWhois.html)
  - [Python executable](https://mauricelambert.github.io/info/python/code/SimpleWhois.pyz)
  - [Python Windows executable](https://mauricelambert.github.io/info/python/code/SimpleWhois.exe)
