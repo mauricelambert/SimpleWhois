@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: SimpleWhois
-Version: 0.0.2
+Version: 0.0.3
 Summary: This module implements WHOIS protocol and performs WHOIS requests.
 Home-page: https://github.com/mauricelambert/SimpleWhois
 Download-URL: https://mauricelambert.github.io/info/python/code/SimpleWhois.pyz
@@ -38,7 +38,7 @@ Requires-Python: >=3.8
 Description-Content-Type: text/markdown
 License-File: LICENSE.txt
 
-![SimpleWhois logo](https://mauricelambert.github.io/info/python/security/SimpleWhois_small.png "SimpleWhois logo")
+![SimpleWhois logo](https://mauricelambert.github.io/info/python/code/SimpleWhois_small.png "SimpleWhois logo")
 
 # SimpleWhois
 
