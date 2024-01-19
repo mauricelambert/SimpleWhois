@@ -1,4 +1,4 @@
-![SimpleWhois logo](https://mauricelambert.github.io/info/python/security/SimpleWhois_small.png "SimpleWhois logo")
+![SimpleWhois logo](https://mauricelambert.github.io/info/python/code/SimpleWhois_small.png "SimpleWhois logo")
 
 # SimpleWhois
 
